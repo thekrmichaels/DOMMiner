@@ -1,0 +1,11 @@
+{
+  "compilerOptions": {
+    "module": "nodenext",
+    "outDir": "./dist",
+    "rootDir": "./src",
+    "rewriteRelativeImportExtensions": true,
+    "strict": true,
+    "target": "ESNext",
+    "types": ["node"]
+  }
+}

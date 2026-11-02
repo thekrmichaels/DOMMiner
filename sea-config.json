@@ -1,0 +1,5 @@
+{
+  "main": "dist/dom-miner.cjs",
+  "mainFormat": "commonjs",
+  "output": "exec/dom-miner.exe"
+}
